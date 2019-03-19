@@ -1,0 +1,14 @@
+#buttons-view{
+    padding: 10px; 
+}
+
+.giff{
+    position: fixed;
+    left: 75%;
+}
+
+.pic{
+    position: relative;
+    left: 35%;
+    
+}
